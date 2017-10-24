@@ -1,0 +1,15 @@
+.DS_Store
+
+Assets/_*
+build/*
+builds/*
+capture/*
+Assembly-*
+Library/*
+obj/*
+Temp/*
+Screenshots/*
+UnityPackageManager/*
+.vscode/*
+*.sln
+*.userprefs
